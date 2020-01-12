@@ -3,3 +3,4 @@ lheufz cnhjrf
 Нужно удалить 
 tot jlyf cnhjrf 
 Hello, git!
+Hello, git rebase!
